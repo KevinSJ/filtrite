@@ -33,16 +33,9 @@ https://fanboy.co.nz/fanboy-antifonts.txt
 # Other third-party tracking
 https://easylist.to/easylist/fanboy-social.txt
 
-# Annoyances on Twitter
-https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
-
-# My own block list
-https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 
 # ----------------------------------
 # Now some region-specific lists
 # ----------------------------------
-https://easylist.to/easylistgermany/easylistgermany.txt
-
-# Adguard lists from https://github.com/AdguardTeam/AdguardFilters
-https://filters.adtidy.org/extension/ublock/filters/6.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
